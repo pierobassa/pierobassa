@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pierobassa
 - 👀 I’m interested in Coding, Crypto and Fitness.
-- 🌱 I’m currently completing my last Computer Science bachelor year.
-- 💞️ I’m looking to collaborate on anything coding related.
+- 🌱 I’m currently working as a Blockchain Software Engineer.
 - 📫 How to reach me: pierobassa222@gmail.com
 
 <!---
