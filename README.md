@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pierobassa
 - 👀 I’m interested in Coding, Crypto and Fitness.
-- 🌱 I’m currently working as a Blockchain Software Engineer @Vechain.
+- 🌱 I’m currently working as a Blockchain Software Engineer [@Vechain](https://www.linkedin.com/company/vechain-foundation/).
 - 📫 How to reach me: pierobassa222@gmail.com
 
 <!---
